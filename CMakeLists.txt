@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.0)
 
-project(gzsz10017_exam)
+project(template)
 
 add_subdirectory(src)
 

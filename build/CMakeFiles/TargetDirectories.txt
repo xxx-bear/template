@@ -1,0 +1,7 @@
+/mnt/hgfs/share/template/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/share/template/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/share/template/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/share/template/build/src/CMakeFiles/project.dir
+/mnt/hgfs/share/template/build/src/CMakeFiles/edit_cache.dir
+/mnt/hgfs/share/template/build/src/CMakeFiles/testFunc_static.dir
+/mnt/hgfs/share/template/build/src/CMakeFiles/testFunc_shared.dir

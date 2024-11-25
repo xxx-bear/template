@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/exam.dir/main.c.o  -o ../../bin/exam -lpthread 
